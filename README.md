@@ -12,4 +12,4 @@
 
 5. Там же, в терминале, ввести команду ***<u>docker ps -a</u>***, после чего скопировать ***CONTAINER ID*** или ***NAMES*** того контейнера, в названии ***IMAGE*** которого присутствует слово *'python'*.
 
-6. Ввести команду ***<u>docker logs CONTAINER ID</u>*** или <u>***docker logs NAMES***</u> и нажать 'Enter'.
+6. Ввести команду ***<u>docker logs [CONTAINER ID]</u>*** или <u>***docker logs [NAMES]***</u> без квадратных скобок [ ] и нажать 'Enter'.
